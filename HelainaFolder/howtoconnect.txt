@@ -8,7 +8,5 @@ steps to connect to repos:
 3. 'git clone [url from step 2]'
 4. edit or add files etc/work
 5. Use 'git add [file/folder]' any files you want to add to the repo
-6. git commit -m 'Message'
+6. git commit -m "Message"
 7. git push
-
-
