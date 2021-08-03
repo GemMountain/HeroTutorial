@@ -1,11 +1,14 @@
 Steps to connect
 
-1. Make sure you have git installed
+1. MAKE SURE YOU HAVE GIT INSTALLED can do so here: https://github.com/git-guides/install-git
 
 steps to connect to repos:
-1. Fork the repo
-2. get the https/link to the repo
-3. navigate in a terminal where you want the project, and do git clone [url]
-4. Create your own folder or file or edit as you will
-5. git commit -m 'Message of editing'
-6. git push
+1. get the https/link to the repo by the green download Code box
+2. navigate in a terminal where you want the project
+3. 'git clone [url from step 2]'
+4. edit or add files etc/work
+5. Use 'git add [file/folder]' any files you want to add to the repo
+6. git commit -m 'Message'
+7. git push
+
+
