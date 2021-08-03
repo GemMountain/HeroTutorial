@@ -1,0 +1,11 @@
+Branches on GitHub
+1. Create your own branch using command 
+	git checkout -b <new_branch>
+2.. add/work
+3. git add [modified file/folder]
+4. git commit -m "Message"
+5. git push --set-upstream origin <new_branch> 
+6. Then can create pull request to add this to main
+
+May be easier ways to do this via VS Code but this is how to by terminal
+set upstream is only neccasary first push
