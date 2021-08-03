@@ -1,0 +1,11 @@
+Steps to connect
+
+1. Make sure you have git installed
+
+steps to connect to repos:
+1. Fork the repo
+2. get the https/link to the repo
+3. navigate in a terminal where you want the project, and do git clone [url]
+4. Create your own folder or file or edit as you will
+5. git commit -m 'Message of editing'
+6. git push
