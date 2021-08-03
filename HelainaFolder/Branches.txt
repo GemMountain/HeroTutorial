@@ -1,0 +1,5 @@
+Branches on GitHub
+1. Create your own branch using command 
+	git checkout -b <new_branch>
+3. add/work, add, commit, push
+4. Then can create pull request to add this to main
