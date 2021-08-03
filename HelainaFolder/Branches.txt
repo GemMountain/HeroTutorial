@@ -8,4 +8,4 @@ Branches on GitHub
 6. Then can create pull request to add this to main
 
 May be easier ways to do this via VS Code but this is how to by terminal
-set upstream may only be neccasary first time?
+set upstream is only neccasary first push
